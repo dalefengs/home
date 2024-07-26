@@ -1,5 +1,5 @@
 services:
-  hexo-blog:
+  home:
     image: dalefengs/home
     container_name: home
     volumes:
