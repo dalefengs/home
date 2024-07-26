@@ -1,6 +1,8 @@
 services:
   home:
-    image: dalefengs/home
+    build:
+      context: .
+      dockerfile: Dockerfile
     container_name: home
     volumes:
       - /www/wwwroot/root:/web/dist
