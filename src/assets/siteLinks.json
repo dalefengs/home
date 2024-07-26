@@ -2,36 +2,32 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.kl.do/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "Server",
+    "name": "服务器监控",
+    "link": "https://service.kl.do/"
   },
+
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.kl.do/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://nav.kl.do/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "UserSecret",
+    "name": "密码管理器",
+    "link": "https://bitwarden.kl.do"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "FileArchive",
+    "name": "Minio 对象存储",
+    "link": "https://minio.kl.do/"
   }
 ]
