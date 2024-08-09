@@ -1,19 +1,13 @@
 [
   {
+    "icon": "Brain",
+    "name": "ChatAPI",
+    "link": "https://api.kl.do/"
+  },
+  {
     "icon": "Blog",
     "name": "博客",
     "link": "https://blog.kl.do/"
-  },
-  {
-    "icon": "Server",
-    "name": "服务器监控",
-    "link": "https://service.kl.do/"
-  },
-
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.kl.do/"
   },
   {
     "icon": "Compass",
@@ -21,13 +15,23 @@
     "link": "https://nav.kl.do/"
   },
   {
-    "icon": "UserSecret",
-    "name": "密码管理器",
-    "link": "https://bitwarden.kl.do"
+    "icon": "Server",
+    "name": "服务器监控",
+    "link": "https://service.kl.do/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.kl.do/"
   },
   {
     "icon": "FileArchive",
     "name": "Minio 对象存储",
     "link": "https://minio.kl.do/"
+  },
+  {
+    "icon": "UserSecret",
+    "name": "密码管理器",
+    "link": "https://bitwarden.kl.do"
   }
 ]
